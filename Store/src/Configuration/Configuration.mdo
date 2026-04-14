@@ -47,7 +47,9 @@
   <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.ФизЛица</catalogs>
   <documents>Document.КадровоеПеремещение</documents>
+  <documents>Document.ПеремещениеПоСкладам</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.ПриемНаРаботу</documents>
   <accumulationRegisters>AccumulationRegister.Товары</accumulationRegisters>

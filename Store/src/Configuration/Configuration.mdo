@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.БСП</commonModules>
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
   <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>

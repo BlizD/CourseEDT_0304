@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="780fb429-bbbc-4fbe-af50-bc8ce1075a1d">
+  <producedTypes>
+    <objectType typeId="7f126236-51a7-4457-aec0-2122dfb26f1e" valueTypeId="1dfcaf1c-403b-4bfe-a165-02bb0e9952ec"/>
+    <refType typeId="d7831eee-60d0-4589-a36e-fe7ca9c9a1e3" valueTypeId="33e0fe55-6276-4f74-9351-737ee3dc3f40"/>
+    <selectionType typeId="a8f1c0ff-1de9-49b4-be1a-b93c9576269a" valueTypeId="38a2fab1-8db7-4203-940d-7f34aa9a3b4f"/>
+    <listType typeId="87fa8652-8e59-48f2-916d-1e754ef12730" valueTypeId="346bd334-0fb4-4cf9-a384-7177551d8f9d"/>
+    <managerType typeId="2381db0f-add2-44b5-a5c4-f7ad713d8c08" valueTypeId="9fcb3492-d46e-4052-ac90-68f7eb4cb6ac"/>
+  </producedTypes>
+  <name>Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

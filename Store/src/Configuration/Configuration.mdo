@@ -40,8 +40,11 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
+  <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.КадровоеПеремещение</documents>

@@ -13,7 +13,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Иванов</vendor>
-  <version>22.04.2026</version>
+  <version>23.04.2026</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -39,5 +39,9 @@
   </languages>
   <catalogs>Catalog.Автомобили</catalogs>
   <catalogs>Catalog.Гаражи</catalogs>
+  <catalogs>Catalog.АЗС</catalogs>
   <documents>Document.ПутевойЛист</documents>
+  <documents>Document.ЗаправкаАвтомобиля</documents>
+  <documents>Document.ПокупкаТоплива</documents>
+  <accumulationRegisters>AccumulationRegister.Топливо</accumulationRegisters>
 </mdclass:Configuration>

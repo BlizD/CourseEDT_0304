@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9d110660-2874-4e99-a117-4de4f875669b">
+  <producedTypes>
+    <selectionType typeId="56e111b9-f3df-4b35-b4fb-e4f084bf877e" valueTypeId="5e52f5df-363e-4f97-9798-9173d88cb7a5"/>
+    <listType typeId="b12d01d5-04ca-4b79-af30-4b2662467677" valueTypeId="ddddc9f3-4aa1-4d04-a37c-f6c001a9c48c"/>
+    <managerType typeId="2bc55677-fa72-4993-b57e-ef71ed94089f" valueTypeId="cc2a534f-cdf5-4dc6-b917-ec7160dc1c15"/>
+    <recordSetType typeId="ea7d393e-333e-42c2-b26f-bc6ac597d339" valueTypeId="5d6ea6d9-0bb8-4b1f-a60e-2e05d95f03ac"/>
+    <recordKeyType typeId="a4cb83ed-67df-4be6-a9ff-9e909bf76a12" valueTypeId="1c0bef69-2a73-4e13-9328-6f42004f7fb4"/>
+    <recordType typeId="2627b1ca-b93c-48da-9440-23601eca7303" valueTypeId="6ddb86e3-01a6-4dcb-957a-8ace510216fa"/>
+  </producedTypes>
+  <name>Топливо</name>
+  <synonym>
+    <key>ru</key>
+    <value>Топливо</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="5dbc9925-706f-4dbf-b60b-228a6d660fd0">
+    <name>Ресурс1</name>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+</mdclass:AccumulationRegister>

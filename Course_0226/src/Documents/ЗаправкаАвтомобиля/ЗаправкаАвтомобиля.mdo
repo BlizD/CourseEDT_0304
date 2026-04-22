@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8217de8f-e6a6-47d5-adad-d49ae66c6346">
+  <producedTypes>
+    <objectType typeId="3fb3f894-353d-4263-940e-b883b5c755bf" valueTypeId="d052ee4d-8774-4a10-aba3-506f74b7ccc4"/>
+    <refType typeId="a3e9525c-e747-4e68-bc3a-1a2e56d251eb" valueTypeId="8c4a01c7-e333-469e-b56e-4f3ab427c851"/>
+    <selectionType typeId="45ed10dd-4377-4e54-ac95-acdc2ae1efe7" valueTypeId="024c1818-2aff-410a-9ac1-80c9a06f91a8"/>
+    <listType typeId="693ec7b0-b4cc-4a2f-9fd4-4c7859135aa5" valueTypeId="4906f656-9d43-436c-b514-090c4335e3c2"/>
+    <managerType typeId="bb408952-ace3-46b5-9368-65a79a3d3883" valueTypeId="82584f5b-dc84-4e22-9de8-399e63f67562"/>
+  </producedTypes>
+  <name>ЗаправкаАвтомобиля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заправка автомобиля</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ЗаправкаАвтомобиля.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

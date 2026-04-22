@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ffe0301f-73a3-4a14-89c8-ad3d269a86b8">
+  <producedTypes>
+    <objectType typeId="efe2dd9b-43d2-4895-8db0-dd501e2d1650" valueTypeId="d6ac2562-6d0d-4d64-81d2-997c8fdcd1f0"/>
+    <refType typeId="708fced9-bd66-436c-a987-51fe6419a16a" valueTypeId="9fd8abee-59ba-45a6-ae10-93035fe87a8e"/>
+    <selectionType typeId="21f831cb-02eb-4b5a-982f-a06a8ce324c7" valueTypeId="ce399bba-20f9-4c8f-97ac-943fb678cbbf"/>
+    <listType typeId="f0c2ce8b-5da9-43af-a303-b377244e933e" valueTypeId="d699ae6c-a806-4f51-beb7-ef8e272f5521"/>
+    <managerType typeId="8dc68a2d-0708-47e6-a61a-40f0b76d4fff" valueTypeId="cc9c596f-b175-413b-86c9-5eba2f864d4d"/>
+  </producedTypes>
+  <name>Гаражи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Гаражи</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Гаражи.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Гаражи.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

@@ -40,10 +40,13 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
+  <catalogs>Catalog.Автомобили</catalogs>
+  <catalogs>Catalog.Гаражи</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.ПутевойЛист</documents>
   <documents>Document.КадровоеПеремещение</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <documents>Document.ПриемНаРаботу</documents>
